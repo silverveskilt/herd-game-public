@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "https://cowbook.ee/static/css/main.adb95738.css",
-    "main.js": "https://cowbook.ee/static/js/main.9572d7a0.js",
+    "main.js": "https://cowbook.ee/static/js/main.9bb425e2.js",
     "static/js/453.a7c3ee1f.chunk.js": "https://cowbook.ee/static/js/453.a7c3ee1f.chunk.js",
     "static/media/bull.png": "https://cowbook.ee/static/media/bull.fa1b7263c1fe39cd57b3.png",
     "static/media/farmhand2.png": "https://cowbook.ee/static/media/farmhand2.c38ea9038ae789f121d2.png",
+    "static/media/town-house.png": "https://cowbook.ee/static/media/town-house.5e08654f2a4a317644a6.png",
     "static/media/cow.png": "https://cowbook.ee/static/media/cow.bca361162af714c67e58.png",
     "static/media/arnold.jpg": "https://cowbook.ee/static/media/arnold.0d8d88be8b25148bf158.jpg",
-    "static/media/cow-svgrepo-com.svg": "https://cowbook.ee/static/media/cow-svgrepo-com.09e9d9c244f3077e0137b27442197dff.svg",
+    "static/media/cow-icon.svg": "https://cowbook.ee/static/media/cow-icon.09e9d9c244f3077e0137b27442197dff.svg",
     "index.html": "https://cowbook.ee/index.html",
     "main.adb95738.css.map": "https://cowbook.ee/static/css/main.adb95738.css.map",
-    "main.9572d7a0.js.map": "https://cowbook.ee/static/js/main.9572d7a0.js.map",
+    "main.9bb425e2.js.map": "https://cowbook.ee/static/js/main.9bb425e2.js.map",
     "453.a7c3ee1f.chunk.js.map": "https://cowbook.ee/static/js/453.a7c3ee1f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.adb95738.css",
-    "static/js/main.9572d7a0.js"
+    "static/js/main.9bb425e2.js"
   ]
 }
