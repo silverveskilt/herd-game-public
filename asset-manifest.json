@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://cowbook.ee/static/css/main.42f46d83.css",
+    "main.css": "https://cowbook.ee/static/css/main.203c057a.css",
     "main.js": "https://cowbook.ee/static/js/main.90722114.js",
     "static/js/453.a7c3ee1f.chunk.js": "https://cowbook.ee/static/js/453.a7c3ee1f.chunk.js",
     "static/media/bull.png": "https://cowbook.ee/static/media/bull.fa1b7263c1fe39cd57b3.png",
@@ -15,12 +15,12 @@
     "static/media/ring.png": "https://cowbook.ee/static/media/ring.1c87067e1ce517e31da3.png",
     "static/media/cow-icon.svg": "https://cowbook.ee/static/media/cow-icon.09e9d9c244f3077e0137b27442197dff.svg",
     "index.html": "https://cowbook.ee/index.html",
-    "main.42f46d83.css.map": "https://cowbook.ee/static/css/main.42f46d83.css.map",
+    "main.203c057a.css.map": "https://cowbook.ee/static/css/main.203c057a.css.map",
     "main.90722114.js.map": "https://cowbook.ee/static/js/main.90722114.js.map",
     "453.a7c3ee1f.chunk.js.map": "https://cowbook.ee/static/js/453.a7c3ee1f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42f46d83.css",
+    "static/css/main.203c057a.css",
     "static/js/main.90722114.js"
   ]
 }
